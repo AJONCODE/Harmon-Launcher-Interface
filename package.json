@@ -119,7 +119,7 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "harmony-swap-sdk": "^1.0.0",
     "path": "^0.12.7",
     "react-toastify": "^6.2.0",
